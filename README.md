@@ -4,7 +4,10 @@ Python project - Analyze Hotel Booking data to improve customer experience and f
 
 Project Learning:
 
-Performed Data Cleaning and Manipulation.
-Performed Explanatory Data Analysis (EDA) using, pandas, matplotlib, seaborn libraries.
-Improved Customer experience by identifying potential customers across different countries.
-Improved customer analysis and given suggestions to make Hotel Business grow in the countries where cancellation rate is higher
+1. Performed Data Cleaning and Manipulation.
+2. Performed Explanatory Data Analysis (EDA) using, pandas, matplotlib, seaborn libraries.
+3. Improved Customer experience by identifying potential customers across different countries.
+4. Improved customer analysis and given suggestions to make Hotel Business grow in the countries where cancellation rate is higher.
+
+
+
